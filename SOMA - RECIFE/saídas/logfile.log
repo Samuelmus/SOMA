@@ -1,0 +1,32 @@
+2025-02-25 15:55:26,114 - INFO - Selecionando plano de contas: MAQUINAS E EQUIPAMENTOS
+2025-02-25 15:55:26,184 - INFO - Plano de contas 'MAQUINAS E EQUIPAMENTOS' selecionado com sucesso.
+2025-02-25 15:55:27,187 - INFO - Selecionando centro de custo: IEVV
+2025-02-25 15:55:27,238 - INFO - Centro de custo 'IEVV' selecionado com sucesso.
+2025-02-25 15:55:29,240 - INFO - Preenchendo descrição: ALICATE CRIMPAR RG 58.59.62_DANFE 000074057
+2025-02-25 15:55:29,240 - INFO - Erro ao processar a linha 0: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=133.0.6943.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7425A6EE5+28773]
+	(No symbol) [0x00007FF7425125D0]
+	(No symbol) [0x00007FF7423A8FAA]
+	(No symbol) [0x00007FF742394DA5]
+	(No symbol) [0x00007FF7423B973A]
+	(No symbol) [0x00007FF74242EFDF]
+	(No symbol) [0x00007FF74244EFE2]
+	(No symbol) [0x00007FF742427023]
+	(No symbol) [0x00007FF7423EFF5E]
+	(No symbol) [0x00007FF7423F11E3]
+	GetHandleVerifier [0x00007FF7428F422D+3490733]
+	GetHandleVerifier [0x00007FF74290BA13+3586963]
+	GetHandleVerifier [0x00007FF74290144D+3544525]
+	GetHandleVerifier [0x00007FF74266C9AA+838442]
+	(No symbol) [0x00007FF74251D01F]
+	(No symbol) [0x00007FF7425195E4]
+	(No symbol) [0x00007FF742519786]
+	(No symbol) [0x00007FF742508CB9]
+	BaseThreadInitThunk [0x00007FFE082D7374+20]
+	RtlUserThreadStart [0x00007FFE09EDCC91+33]
+
+2025-02-25 15:55:29,240 - INFO - Processo interrompido devido ao erro.
+2025-02-25 15:55:29,240 - INFO - Nenhum lançamento foi concluído com sucesso. Planilha não foi salva.
