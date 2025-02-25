@@ -26,6 +26,6 @@ Anaconda é uma plataforma de gerenciamento de pacotes e ambientes para Python. 
 
 ### 3. Instalando o Selenium 
 
-  Com o Anaconda-Prompt aberto ainda, instale o web-driver, da seguinte maneira:
+  Com o Anaconda-Prompt aberto ainda, instale o web-driver da seguinte maneira:
   
   *pip install chromedriver-autoinstaller*
