@@ -1,4 +1,4 @@
-# Automaçaõ - SOMA (SISTEMA) - MINISTÉRIO VERBO DA VIDA 
+# Automação - SOMA (SISTEMA) - MINISTÉRIO VERBO DA VIDA 
 
 Este repositório contém códigos para automação de tarefas utilizando Selenium, incluindo o preenchimento de formulários online, interação com páginas web, e outros processos automatizados com Python.
 Essa automação faz o preenchimento da entradas e saídas de maneira automatizada. 
